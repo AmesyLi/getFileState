@@ -1,2 +1,9 @@
-# getFileState
-获取文件状态的VsCode插件
+# get-file-state README
+
+这是一个可文件状态查看的vsCode插件
+
+## Features
+
+
+
+**Enjoy!**
