@@ -2,7 +2,7 @@
   "name": "get-file-state",
   "displayName": "get-file-state",
   "description": "这是一个可查看文件状态的小插件",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "LizLi",
   "engines": {
     "vscode": "^1.85.0"
